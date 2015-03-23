@@ -8,3 +8,10 @@ blog
 ```
 
 Visit `localhost:8080`.
+
+Or more simly, do the following.
+```sh
+go get github.com/maddyonline/blog/blog
+cd blog
+blog
+```
